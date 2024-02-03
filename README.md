@@ -1,5 +1,5 @@
 ## 📨 Commands:
- `/insu - öffnet eine Spielerübersicht
+ ```/insu - öffnet eine Spielerübersicht
  /gamemaster - öffnet ein Gamemaster-Menü
  
  /registergamemaster <playername> - registriere einen Gamemaster
@@ -14,7 +14,7 @@
  /reloadconfig - lädt die Config neu (fehlerhaft)
  
  /showdata - (debug)
- /speed - (test)`
+ /speed - (test)```
 
 🌴 INSU Discord: https://discord.gg/ZnQHMWFQQs
 
