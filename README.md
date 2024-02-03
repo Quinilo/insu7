@@ -1,5 +1,6 @@
 ### 📨 Commands:
- ```/insu - öffnet eine Spielerübersicht
+ ```
+ /insu - öffnet eine Spielerübersicht
  /gamemaster - öffnet ein Gamemaster-Menü
  
  /registergamemaster <playername> - registriere einen Gamemaster
