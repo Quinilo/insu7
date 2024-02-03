@@ -1,0 +1,6 @@
+name: INSU-Core
+description: INSU main plugin
+author: Quinilo
+version: 1.0
+api: ["1.0.8"]
+main: de.quinilo.insu.core.PluginMain
