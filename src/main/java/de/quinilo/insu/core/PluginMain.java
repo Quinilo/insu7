@@ -216,15 +216,11 @@ public class PluginMain extends PluginBase {
         if (map.isEmpty()) {
             return null;
         }
-
-        // Alle Werte in eine Liste umwandeln
+        
         List<V> valueList = new ArrayList<>(map.values());
-
-        // Zufälligen Index auswählen
         Random random = new Random();
         int randomIndex = random.nextInt(valueList.size());
 
-        // Zufälligen Wert zurückgeben
         return valueList.get(randomIndex);
     }
 }
