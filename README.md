@@ -1,3 +1,5 @@
+# INSU7 - README.md
+
 ## 📨 Commands:
  ```
  /insu - öffnet eine Spielerübersicht
