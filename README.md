@@ -1,4 +1,4 @@
-### 📨 Commands:
+# 📨 Commands:
  ```
  /insu - öffnet eine Spielerübersicht
  /gamemaster - öffnet ein Gamemaster-Menü
