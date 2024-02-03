@@ -1,4 +1,4 @@
-## 📨 Commands:
+### 📨 Commands:
  ```/insu - öffnet eine Spielerübersicht
  /gamemaster - öffnet ein Gamemaster-Menü
  
@@ -14,10 +14,11 @@
  /reloadconfig - lädt die Config neu (fehlerhaft)
  
  /showdata - (debug)
- /speed - (test)```
+ /speed - (test)
+```
 
-🌴 INSU Discord: https://discord.gg/ZnQHMWFQQs
+## 🌴 INSU Discord: https://discord.gg/ZnQHMWFQQs
 
-⌨️ Das Plugin wurde zu 95% von mir entwickelt (5% ChatGPT)
+## ⌨️ Das Plugin wurde zu 95% von mir entwickelt (5% ChatGPT)
 
-📝 Bitte bei verwendung Credits angeben
+## 📝 Bitte bei verwendung Credits angeben
